@@ -1,0 +1,4 @@
+.text
+
+call function1
+call function2

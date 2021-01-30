@@ -1,0 +1,6 @@
+.data
+msg Hello_World!
+
+.text
+mov r5 msg
+print r5

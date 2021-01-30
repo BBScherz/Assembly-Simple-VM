@@ -1,0 +1,8 @@
+.text
+mov r1 14
+mov r2 6
+add r1 r2
+print r1
+sub r1 5
+print r1
+
